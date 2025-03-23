@@ -1,0 +1,13 @@
+2025-03-22T20:02:54,523 Using pip 25.0.1 from G:\anoop\mlproject\venv\Lib\site-packages\pip (python 3.12)
+2025-03-22T20:02:54,523 Non-user install because user site-packages disabled
+2025-03-22T20:02:55,072 Created temporary directory: C:\Users\vc\AppData\Local\Temp\pip-build-tracker-4p01_0ax
+2025-03-22T20:02:55,072 Initialized build tracking at C:\Users\vc\AppData\Local\Temp\pip-build-tracker-4p01_0ax
+2025-03-22T20:02:55,072 Created build tracker: C:\Users\vc\AppData\Local\Temp\pip-build-tracker-4p01_0ax
+2025-03-22T20:02:55,072 Entered build tracker: C:\Users\vc\AppData\Local\Temp\pip-build-tracker-4p01_0ax
+2025-03-22T20:02:55,072 Created temporary directory: C:\Users\vc\AppData\Local\Temp\pip-install-06k4fmsx
+2025-03-22T20:02:55,088 Created temporary directory: C:\Users\vc\AppData\Local\Temp\pip-ephem-wheel-cache-raq2_bqs
+2025-03-22T20:02:55,131 Created temporary directory: C:\Users\vc\AppData\Local\Temp\pip-unpack-5flx4wj9
+2025-03-22T20:02:55,604 Remote version of pip: 25.0.1
+2025-03-22T20:02:55,604 Local version of pip:  25.0.1
+2025-03-22T20:02:55,604 Was pip installed by pip? True
+2025-03-22T20:02:55,604 Removed build tracker: 'C:\\Users\\vc\\AppData\\Local\\Temp\\pip-build-tracker-4p01_0ax'
